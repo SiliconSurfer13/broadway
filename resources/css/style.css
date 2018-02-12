@@ -22,6 +22,13 @@ h2
   font-weight: bold;
 }
 
+#design
+{
+  font-weight: bold;
+    color: white;
+    background-image: url("../images/the-flatiron-building.png");
+}
+
 h3
 {
   font-size: 23px;
@@ -38,7 +45,7 @@ nav
   color: white;
 }
 
-#homeid,#processid,#workid,#teamid,#contactid,#aboutid
+.navigation
 {
   color: white;
   font-size: 18px;
